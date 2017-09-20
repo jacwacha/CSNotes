@@ -9,7 +9,7 @@
 using namespace std;
 
 void swap(std::vector<int> &vec,int i, int j){
-  \
+ 
   int temp;
   temp = vec.at(i);
   vec.at(i)=vec.at(j);
