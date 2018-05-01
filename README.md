@@ -3,6 +3,7 @@
 ### Maths
 ### Physics
 ### Computation
-### Visualization
+### [Visualization](https://github.com/jacwacha/MyNotes/edit/master/Visualization/Readme.md)
+*Looking at data , mostly withy pyplot*
 ### Art 
 ### Digressions
