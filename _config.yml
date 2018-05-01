@@ -1,1 +1,16 @@
 theme: jekyll-theme-cayman
+
+collections:
+  Visualization:
+    output: true
+  Computation:
+    output: true
+  Math:
+    output: true
+  Physics:
+    output: true
+  Art:
+    output: true
+  Digressions:
+    output: true
+    
