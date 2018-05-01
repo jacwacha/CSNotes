@@ -3,7 +3,7 @@
 ### Maths
 ### Physics
 ### Computation
-### [Visualization](Visualization/Readme.md)
+### [Visualization](vis.md)
 *Looking at data , mostly withy pyplot*
 ### Art 
 ### Digressions
